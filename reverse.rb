@@ -9,7 +9,6 @@ class String
 end
 
 string_to_reverse = "Beach House is awesome"
-
 string_to_reverse.reverse_string
 puts string_to_reverse
 
